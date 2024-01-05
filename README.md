@@ -1,7 +1,7 @@
 # Edinei Santos
 
 ## About
-I am a data professional skilled in Data Science, Machine Learning, and Data Product Management. With a degree in Economics from the University of São Paulo and a background in the financial market, I transitioned into data and technology, driven by a passion for analysis and innovation. My certifications include Data Science, Data Engineering, and Machine Learning from Data Science Academy, Data Products Management from Triggo.ai, and most recently, Machine Learning DevOps (MLOps) from Udacity. I bring 7 years of experience in energy data analysis and 6 months as a Data Product Manager, focusing on API products in the energy sector.
+I am a data scientist and machine learning engineer with a degree in Economics and a background in the financial market. Driven by my passion for technology and innovation, I transitioned into the field of data and technology. With 7 years of experience in the energy sector, my work has included data analysis, automation, and API product management. I also hold certifications in Data Science, MLOps, and Data Products Management.
 
 ## Technologies and Tools
 I have hands-on experience with the following technologies and tools:
