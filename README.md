@@ -5,8 +5,6 @@ I am a data scientist and machine learning engineer with a degree in Economics a
 
 ## Technologies and Tools
 I have hands-on experience with the following technologies and tools:
-* Microsoft Office
-* Excel
 * SQL
 * Python
 * FastAPI
@@ -18,19 +16,19 @@ I have hands-on experience with the following technologies and tools:
 * Docker
 * Google App Engine
 * GitHub Actions
-
-I have basic or theoretical knowledge of the following technologies and tools:
+* TensorFlow
 * R
+
+I have basic knowledge of the following technologies and tools:
 * C++
 * JavaScript
 * Java
 * Spark
 * Sagemaker
 * H20
-* TensorFlow
 * Weights & Biases
 * MLFlow
 * DVC
 * DBT
 
-I am committed to continuously exploring and learning new tools and technologies in the rapidly evolving field of Data, Machine Learning and Artificial Intelligence.
+I am committed to continuously exploring and learning new tools and technologies in the rapidly evolving field of Data Science, Machine Learning and Artificial Intelligence.
