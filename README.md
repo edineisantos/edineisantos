@@ -17,6 +17,7 @@ I have hands-on experience with the following technologies and tools:
 * Google App Engine
 * GitHub Actions
 * TensorFlow
+* PyTorch
 * R
 
 I have basic knowledge of the following technologies and tools:
