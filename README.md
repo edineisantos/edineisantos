@@ -1,7 +1,7 @@
 # Edinei Santos
 
 ## About
-I am a data scientist and machine learning engineer with a degree in Economics and a background in the financial market. Driven by my passion for technology and innovation, I transitioned into the field of data and technology. With 7 years of experience as data analyst in the energy sector, my work has included data analysis, automation, and API product management. I also hold certifications in Data Science, MLOps, and Data Products Management.
+Data professional with an Economics degree and over 7 years of experience in the energy market. I have 6 years of experience as Data Analyst, 1 year as Business Analyst and 6 months as a Data Product Manager in the energy market. My specialization includes data analysis, process automation, and API product management, enhanced by certifications in Data Science, Data Engineering, MLOps, and Data Products Management.
 
 ## Technologies and Tools
 I have hands-on experience with the following technologies and tools:
