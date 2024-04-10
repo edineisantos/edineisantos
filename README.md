@@ -1,7 +1,7 @@
 # Edinei Santos
 
 ## About
-Data professional with an Economics degree and over 7 years of experience in the energy market. I have 6 years of experience as Data Analyst, 1 year as Business Analyst and 6 months as a Data Product Manager in the energy market. My specialization includes data analysis, process automation, and API product management, enhanced by certifications in Data Science, Data Engineering, MLOps, and Data Products Management.
+Data professional with an Economics degree and over 7 years of experience in the energy market. I have 6 years of experience as Data Analyst, 1 year as Business Analyst and 6 months as a Data Product Manager. My specialization includes data analysis, process automation, and API product management, enhanced by certifications in Data Science, Data Engineering, MLOps, and Data Products Management.
 
 ## Technologies and Tools
 I have hands-on experience with the following technologies and tools:
