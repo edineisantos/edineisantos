@@ -1,7 +1,7 @@
 # Edinei Santos
 
 ## About
-Data professional with an Economics degree and over 7 years of experience in the energy market. I have 6 years of experience as Data Analyst, 1 year as Business Analyst and 6 months as a Data Product Manager. My specialization includes data analysis, process automation, and API product management, enhanced by certifications in Data Science, Data Engineering, MLOps, and Data Products Management.
+Data Scientist with over 8 years of experience in data, process automation, and data product management. I have worked as a Data Analyst and Data Product Manager in the energy sector and currently serve as a Data Scientist at a B2B e-commerce company. Graduated in Economics, I hold certifications in Data Science, MLOps, Generative AI, and Data Product Management, combining technical expertise in data with business knowledge.
 
 ## Technologies and Tools
 I have hands-on experience with the following technologies and tools:
@@ -12,24 +12,28 @@ I have hands-on experience with the following technologies and tools:
 * Machine Learning
 * AWS Athena
 * Cloud Computing
-* Power BI
 * Docker
 * Google App Engine
 * GitHub Actions
 * TensorFlow
 * PyTorch
-* R
 
 I have basic knowledge of the following technologies and tools:
 * C++
+* R
 * JavaScript
 * Java
-* Spark
+* PySpark
 * Sagemaker
 * H20
 * Weights & Biases
 * MLFlow
 * DVC
 * DBT
+* LangChain
+* CrewAI
+* BigQuery
+* Power BI
+* Locker
 
 I am committed to continuously exploring and learning new tools and technologies in the rapidly evolving field of Data Science, Machine Learning and Artificial Intelligence.
